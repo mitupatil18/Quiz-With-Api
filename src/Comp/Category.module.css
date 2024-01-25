@@ -1,0 +1,36 @@
+.crdsize{
+    height: 500px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWJly1P7ELVwi9KvoSK4az0XCsr84-mgrF26hGwqfkgA&s);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.btnquiz{
+    margin-top: 1rem;
+}
+.imgsz{
+    height: 200px;
+}
+.card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+  
+  .card-text {
+    font-size: 1rem;
+  }
+.card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+  
+  .card-body {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
